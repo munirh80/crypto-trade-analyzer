@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#510C55",
+        "titleBar.activeBackground": "#711177",
+        "titleBar.activeForeground": "#FEFBFF"
+    },
+    "djlint.showInstallError": false
+}
